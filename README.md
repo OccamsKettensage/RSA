@@ -1,6 +1,6 @@
 # RSA
 An RSA encryptor and decryptor that works for text and numbers.
-I got the inspiration to implement my own version from https://github.com/evykassirer/RSA 
+I got the inspiration to implement it from Evy Kassirer.
 
 RSA is used for encrypting and decrypting numbers. Also, the public key and private key are pre-decided. This takes the fun out of it. 
 So, I created this version which can encrypt and decrypt both text and numbers. Also, new keys are generated each time.
