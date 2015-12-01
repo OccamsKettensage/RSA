@@ -8,7 +8,7 @@ So, I created this version which can encrypt and decrypt both text and numbers. 
 This project was practice for making a reddit bot in Python that encrypts and decrypts reddit comments. Stay tuned for it!
 
 In the meanwhile, encrypt all the messages you want! However, make sure you save the public and private key because 
-a new one is generated each time you run the program. You can either do it by hand or make a very small change to the function body
+a new one is generated each time you run the program. You can either do it by hand or by making very small changes to the function bodies
 of encrypt and decrypt.
 This functionality would be built-in in the reddit bot.
 
